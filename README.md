@@ -3,6 +3,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-262424?style=for-the-badge&logo=Telegram)](http://t.me/Gruslans)
 [![Codeforces](https://img.shields.io/badge/Codeforces-262424?style=for-the-badge&logo=Codeforces)](https://codeforces.com/profile/Gruslan)
 [![Vkontakte](https://img.shields.io/badge/VK-262424?style=for-the-badge&logo=Vk&logoColor=0077FF)](https://vk.com/galeev.ruslan)
+[![Pastebin](https://img.shields.io/badge/Pastebin-262424?style=for-the-badge&logo=Pastebin&logoColor=0077FF)](https://pastebin.com/u/gruslan)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GRusl&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GRusl&theme=solarized_dark)
